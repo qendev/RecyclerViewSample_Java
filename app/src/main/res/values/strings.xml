@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewSample_Java</string>
+    <string name="artiste_s_name">Artiste\'s Name</string>
+    <string name="settings">Settings</string>
+    <string name="artiste_s_profile">Artiste\'s Profile</string>
+    <string name="settings_activity">Settings Activity</string>
+</resources>
